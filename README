@@ -1,6 +1,3 @@
-Danielle Dominguez (dnd59) and Enrica Kumar (ek742)
-
-
 **mysh** is a basic simple command line shell implemented in C. The provided Makefile can be used to generate the mysh executable file.
 It can run in either batch or interactive mode. It enters through the main function and checks the command-line arguments. If a file is provided, it runs in batch mode; otherwise, it runs in interactive mode.
 
